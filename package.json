@@ -1,0 +1,9 @@
+{
+  "name": "guacamole",
+  "version": "0.9.13",
+  "author": "Apache",
+  "main": "all.min.js",
+  "files": [
+     "all.min.js"
+  ]
+}
